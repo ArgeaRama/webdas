@@ -1,0 +1,47 @@
+.wrap{
+	width: 900px;
+	margin: 10px auto;
+}
+/* .wrap .header{
+    padding: 1px 10px;
+   
+} */
+.wrap .hr{
+    margin: 1px;
+}
+.clear{
+    clear: both;
+}
+
+.badan{
+	height: 450px;
+}
+/*bagian sidebar*/
+.wrap .badan .sidebar{
+	/* background: orange; */
+	float: left;	
+	width: 25%;
+    height: 100%;
+    margin-top: 1%;
+}
+
+/*akhir sidebar*/
+
+.wrap .badan .content{
+	/* background: red; */
+	float: left;
+	height: 100%;
+	width: 75%;	
+}
+
+.wrap .footer{
+	width: 100%;
+	padding: 10px;
+	align-content: center;
+}
+.wrap .footer .panel-body{
+	width: 600px;
+	height: 1000px;
+	border: 60px;
+	margin: 0 auto;
+}

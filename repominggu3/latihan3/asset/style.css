@@ -1,0 +1,11 @@
+hr{
+    color: red;
+wrap{
+    width: 900px;
+    margin: 10px auto;
+    bacground: blue;
+}
+wrap header{
+    background: green;
+    padding: 2px 10px;
+}
